@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Fri, 14 Feb 2014 22:43:20 -0400
+Source: kmusicplay
+Binary: kmusicplay
+Architecture: source all
+Version: 0.2
+Distribution: UNRELEASED
+Urgency: low
+Maintainer: Keshav Bhatt <keshavnrj@gmail.com>
+Changed-By: Keshav Bhatt <keshavnrj@gmail.com>
+Description: 
+ kmusicplay - Next generation audioplayer for ubuntu
+Changes: 
+ kmusicplay (0.2) UNRELEASED; urgency=low
+ .
+   * Initial release
+Checksums-Sha1: 
+ da4e0cae4cea623d257834ecad02c62eb1a876b9 561 kmusicplay_0.2.dsc
+ f469fa15f6270dd342d307e93c1e2315180106eb 1914534 kmusicplay_0.2.tar.gz
+ 4faf28aecc203e78760db0d8affa6056a961806c 1886472 kmusicplay_0.2_all.deb
+Checksums-Sha256: 
+ f45a12cb275bd4c6791eda010c7385080fe47e7417e332ec53a11c9a19d5b09f 561 kmusicplay_0.2.dsc
+ 1f89d88df191b1ba107aa22c5b87e6e5e356ce45c78fbf905622faa16d7798ec 1914534 kmusicplay_0.2.tar.gz
+ 72d37158e584d45c60ea419dfdb29343924861fda3e2840119a2c15db3cec50a 1886472 kmusicplay_0.2_all.deb
+Files: 
+ c9952ccddf47ea2dd99817c3e7c35dab 561 sound extra kmusicplay_0.2.dsc
+ e0c5ec5830d81945cf1c8cd61f73d394 1914534 sound extra kmusicplay_0.2.tar.gz
+ 1664b8a244b7b1e6550a149151f2ec00 1886472 sound extra kmusicplay_0.2_all.deb
