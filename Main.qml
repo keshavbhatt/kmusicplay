@@ -886,7 +886,7 @@ onCheckedChanged:  {
 
 
     if(checked === true && fullscreened===true ) { mainWindow.header.hide() ; mainWindow.header.visible = false }
-    if (checked === true && player.hasVideo){ ScreenSaver.screenSaverEnabled=false ;  vidout.source=player; player.stop();player.play();   }
+    //if (checked === true && player.hasVideo){ ScreenSaver.screenSaverEnabled=false ;  vidout.source=player; player.stop();player.play();   }
     else if (checked === false) {vidout.enabled=false ;  /*vidout.destroy()*/ mainWindow.header.show() ; mainWindow.header.visible=true
 
     }
