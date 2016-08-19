@@ -19,7 +19,7 @@ import QtQuick.XmlListModel 2.0
 import QtQuick.LocalStorage 2.0
 //for player tab floating  setting
 import QtQuick.Layouts 1.0
-import QtSystemInfo 5.0
+//import QtSystemInfo 5.0
 
 MainView {
 
